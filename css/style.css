@@ -314,19 +314,19 @@ button {
 }
 
 .text-bg h1 {
-     color: #29b100;
+     color: #6B8E23;
      font-size: 72px;
      line-height: 78px;
      font-weight: bold;
 }
 
 .text-bg h1 span {
-     color: #29b100;
+     color: #6B8E23;
 }
 
 .text-bg p {
      font-size: 17px;
-     color: #29b100;
+     color: #6B8E23;
      line-height: 28px;
      font-weight: 500;
      padding-bottom: 50px;
@@ -355,7 +355,7 @@ button {
      width: 22px;
      height: 22px;
      border-radius: 20px;
-     background: #1b6d02;
+     background: #6B8E23;
 }
 
 .banner_Carousel .carousel-indicators li.active {
@@ -386,7 +386,7 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #29b100;
+     background-color: #6B8E23;
      color: #fff;
      padding: 13px 0px;
      width: 100%;
@@ -400,7 +400,7 @@ button {
 }
 
 .read_more:hover {
-     background: #29b100;
+     background: #6B8E23;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -509,7 +509,7 @@ button {
 }
 
 .yellow {
-     color: #29b100;
+     color: #6B8E23;
 }
 
 .margin_top {
@@ -555,7 +555,7 @@ button {
      line-height: 18px;
      display: block;
      text-align: center;
-     border-bottom: #29b100 solid 1px;
+     border-bottom: #6B8E23 solid 1px;
      width: 161px;
      margin: 0 auto;
      font-weight: 600;
@@ -584,7 +584,7 @@ button {
      width: 25px;
      height: 25px;
      border-radius: 20px;
-     background: #29b100;
+     background: #6B8E23;
 }
 
 .testimonial_Carousel .carousel-indicators li.active {
@@ -633,7 +633,7 @@ button {
 
 .footer {
      position: relative;
-     background: #26a400;
+     background: #6B8E23;
      padding-top: 85px;
      text-align: center;
 }
@@ -696,7 +696,7 @@ button {
 }
 
 .main_form .send_btn:hover {
-     background-color: #29b100;
+     background-color: #6B8E23;
      transition: ease-in all 0.5s;
      color: #000;
 }
@@ -730,11 +730,11 @@ ul.social_icon li a {
      font-size: 25px;
      border-radius: 30px;
      margin: 0 3px;
-     color: #29b100;
+     color: #6B8E23;
 }
 
 ul.social_icon li a:hover {
-     background-color: #29b100;
+     background-color: #6B8E23;
      color: #fff;
 }
 
@@ -768,7 +768,7 @@ ul.location_icon li a {
 }
 
 ul.location_icon li a:hover {
-     color: #29b100;
+     color: #6B8E23;
 }
 
 .footer h3 {
@@ -781,7 +781,7 @@ ul.location_icon li a:hover {
 .copyright {
      margin-top: 30px;
      padding: 20px 0px;
-     background-color: #29b100;
+     background-color: #719920;
 }
 
 .copyright p {
@@ -803,7 +803,7 @@ ul.location_icon li a:hover {
 /** end footer **/
 
 .inner_page .header {
-     background-color: #29b100;
+     background-color: #578b00b5;
      padding-bottom: 15px !important;
      position: inherit;
 }
